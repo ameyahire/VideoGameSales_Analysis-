@@ -1,4 +1,4 @@
-<img width="596" alt="image" src="https://github.com/user-attachments/assets/53dc1d77-4168-416a-93c9-5e691b887bbf" /><img width="596" alt="image" src="https://github.com/user-attachments/assets/2004cde6-3fcc-4746-b270-ab9903f75cde" />
+<img width="596" alt="image" src="https://github.com/user-attachments/assets/53dc1d77-4168-416a-93c9-5e691b887bbf" /><img>
 # Game Sales Analysis Dashboard
 
 ## Overview
